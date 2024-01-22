@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmbarishKapil
 - 👀 I’m interested in stories
-- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on anything that's interesting and solves an existing issue
 - 📫 How to reach me - you can reach me at kapilambarish@gmail.com
 
